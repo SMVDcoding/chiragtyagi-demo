@@ -1,4 +1,4 @@
 # chiragtyagi-demo
-This is my first git repository.
+This is my 1st git repository.
 <br>
 Author - Chirag Tyagi(IIT BHU)
